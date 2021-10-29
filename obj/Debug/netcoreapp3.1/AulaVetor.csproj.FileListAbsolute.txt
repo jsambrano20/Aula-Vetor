@@ -1,0 +1,14 @@
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.exe
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.deps.json
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.runtimeconfig.json
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.runtimeconfig.dev.json
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.dll
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\bin\Debug\netcoreapp3.1\AulaVetor.pdb
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.csproj.AssemblyReference.cache
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.AssemblyInfoInputs.cache
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.AssemblyInfo.cs
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.csproj.CoreCompileInputs.cache
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.dll
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.pdb
+C:\Users\a775639\source\repos\AulaVetor\AulaVetor\obj\Debug\netcoreapp3.1\AulaVetor.genruntimeconfig.cache
